@@ -1,0 +1,10 @@
+{
+    "environments": [
+        "local",
+        "DEV1",
+        "DEV2",
+        "QA1",
+        "QA2",
+        "uat"
+    ]
+}
